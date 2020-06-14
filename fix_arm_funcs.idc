@@ -2,6 +2,7 @@
 /* Fix functions - Schneider NOE 110 firmware */
   
 /* Edited by Harrys Kon Feb. 2015*/
+/* Edited by me June. 2020*/
   
 /* FixARMfunctions.idc*/
   
